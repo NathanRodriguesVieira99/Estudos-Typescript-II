@@ -1,4 +1,5 @@
 
+
 // Tipagem DINAMICA
 
 let curso = 'TypeScript'
